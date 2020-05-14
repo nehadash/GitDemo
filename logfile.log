@@ -1,0 +1,44 @@
+2020-05-10 11:53:15,420 : INFO : test_formSubmission : first name is Dipty
+2020-05-10 11:53:16,428 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:53:16,428 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:53:28,723 : INFO : test_e2e : getting all the card titles
+2020-05-10 11:53:28,763 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="123266af4365ad81091a48cd7f5586b5", element="43c157f1-2ee5-40cd-8338-c62c3941e04e")>
+2020-05-10 11:53:28,771 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="123266af4365ad81091a48cd7f5586b5", element="43c157f1-2ee5-40cd-8338-c62c3941e04e")>
+2020-05-10 11:53:28,779 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="123266af4365ad81091a48cd7f5586b5", element="43c157f1-2ee5-40cd-8338-c62c3941e04e")>
+2020-05-10 11:53:28,791 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="123266af4365ad81091a48cd7f5586b5", element="43c157f1-2ee5-40cd-8338-c62c3941e04e")>
+2020-05-10 11:53:29,061 : INFO : test_e2e : Entering country name as ind
+2020-05-10 11:53:34,862 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-10 11:54:01,057 : INFO : test_formSubmission : first name is Dipty
+2020-05-10 11:54:02,174 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:54:02,174 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:54:15,105 : INFO : test_e2e : getting all the card titles
+2020-05-10 11:54:15,165 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a0a4db3bc75abc5148dce85c835be38d", element="acd34e01-911c-45ef-95d6-05e10b46db4d")>
+2020-05-10 11:54:15,177 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a0a4db3bc75abc5148dce85c835be38d", element="acd34e01-911c-45ef-95d6-05e10b46db4d")>
+2020-05-10 11:54:15,189 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a0a4db3bc75abc5148dce85c835be38d", element="acd34e01-911c-45ef-95d6-05e10b46db4d")>
+2020-05-10 11:54:15,201 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a0a4db3bc75abc5148dce85c835be38d", element="acd34e01-911c-45ef-95d6-05e10b46db4d")>
+2020-05-10 11:54:15,507 : INFO : test_e2e : Entering country name as ind
+2020-05-10 11:54:21,342 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-10 11:55:26,011 : INFO : test_formSubmission : first name is Dipty
+2020-05-10 11:55:27,116 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:55:27,116 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:55:39,481 : INFO : test_e2e : getting all the card titles
+2020-05-10 11:55:39,525 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="8bf370513e45e6a4ce07bd9429e33832", element="042d375a-3eef-44b2-9c48-6a046e474a69")>
+2020-05-10 11:55:39,533 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="8bf370513e45e6a4ce07bd9429e33832", element="042d375a-3eef-44b2-9c48-6a046e474a69")>
+2020-05-10 11:55:39,545 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="8bf370513e45e6a4ce07bd9429e33832", element="042d375a-3eef-44b2-9c48-6a046e474a69")>
+2020-05-10 11:55:39,557 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="8bf370513e45e6a4ce07bd9429e33832", element="042d375a-3eef-44b2-9c48-6a046e474a69")>
+2020-05-10 11:55:39,855 : INFO : test_e2e : Entering country name as ind
+2020-05-10 11:55:45,923 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-10 11:56:43,807 : INFO : test_formSubmission : first name is Dipty
+2020-05-10 11:56:44,903 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:56:44,903 : INFO : test_formSubmission : first name is Dispty
+2020-05-10 11:56:57,388 : INFO : test_e2e : getting all the card titles
+2020-05-10 11:56:57,436 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8ebf8b863fceb67deb05c8081bb4ec3", element="13b0d4b5-1c52-47ea-9ab1-44b032569d42")>
+2020-05-10 11:56:57,448 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8ebf8b863fceb67deb05c8081bb4ec3", element="13b0d4b5-1c52-47ea-9ab1-44b032569d42")>
+2020-05-10 11:56:57,456 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8ebf8b863fceb67deb05c8081bb4ec3", element="13b0d4b5-1c52-47ea-9ab1-44b032569d42")>
+2020-05-10 11:56:57,469 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="a8ebf8b863fceb67deb05c8081bb4ec3", element="13b0d4b5-1c52-47ea-9ab1-44b032569d42")>
+2020-05-10 11:56:57,753 : INFO : test_e2e : Entering country name as ind
+2020-05-10 11:57:03,933 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
